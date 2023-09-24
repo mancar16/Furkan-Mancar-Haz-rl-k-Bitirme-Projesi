@@ -1,0 +1,57 @@
+#ananavbar {
+    background-color: rgb(33,37,41);
+    color: white;
+}
+nav ul li {
+    display: inline-block;
+    color: rgb(155,157,158);
+    padding-left: 30px;
+    padding-top: 20px;
+}
+nav #ananavbar .navbar-brand {
+    text-decoration: none;
+    color: white;
+    margin-left: 15em;
+}
+nav ul {
+    display: flex;
+    text-align: center;
+    padding-left: 50em;
+}
+#header1 {
+    background-color: rgb(33,37,41);
+}
+#h1 {
+    color: white;
+    padding-top: 50px;
+    font-size: 3rem !important;
+}
+header p {
+    color: rgb(126,133,142);
+    padding-top: 20px;
+    font: 20px;
+}
+#alinti {
+    width: 50% !important;
+}
+#kartustu {
+    margin-left: 38% !important;
+}
+#email {
+    margin-left: 300px !important;
+    margin-top: 20px;
+}
+#read {
+    margin-left: 500px !important;
+}
+.storydiv {
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#submit {
+    padding-left: 45%;
+    padding-right: 45%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
